@@ -21,7 +21,7 @@ author:
   avatar: /assets/img/ogp.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://pseudoleon.github.io/tjctf-23/" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
