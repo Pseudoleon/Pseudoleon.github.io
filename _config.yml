@@ -4,8 +4,8 @@ description: >- # site description
   Someone who writes about cryptography, sometimes.
 lang: en-US # default lang
 timezone: Europe/Belgrade # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+# image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/Pseudoleon/Pseudoleon.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
